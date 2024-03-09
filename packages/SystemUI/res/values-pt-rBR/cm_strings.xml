@@ -74,6 +74,9 @@
     <string name="screenrecord_delete_description">Gravação de tela excluída</string>
     <string name="screenrecord_stopdot_label">Mostrar ponto de parar gravação</string>
     <string name="screenrecord_stopdot_summary">Pressione e segure para mover</string>
+    <string name="screenrecord_lowquality_high">Alta</string>
+    <string name="screenrecord_lowquality_medium">Média</string>
+    <string name="screenrecord_lowquality_low">Baixa</string>
     <string name="screenrecord_lowquality_label">Qualidade mais baixa</string>
     <string name="screenrecord_lowquality_summary">Para tamanho de arquivo menor</string>
     <string name="screenrecord_longer_timeout_switch_label">Limite de tamanho de arquivo maior</string>
